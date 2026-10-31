@@ -1,6 +1,6 @@
 # Hey there, I'm Tanisha Lokhande! 👋
 
-### Aspiring Software Engineer | Java | SQL | Software Testing & Automation
+### Aspiring Software Engineer | Java | SQL
 
 🎓 BE Information Technology | 2026 Graduate
 
